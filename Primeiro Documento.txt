@@ -35,9 +35,7 @@
 
 - Blog ou notícias relacionadas
 
-- Contato
-
-- Formulário de contato
+- Contato (formulário de contato)
 
 - Informações sobre como chegar
 
