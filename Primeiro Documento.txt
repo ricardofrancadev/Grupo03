@@ -53,11 +53,6 @@
 
 - Blog ou Notícias: Publicar atualizações sobre a competição, novas regras ou artigos educativos sobre CanSat.
 
-- Área de Membros: Para equipes participantes acessarem informações privadas.
-
-- Sistema de Notificação: Alertas para os participantes sobre datas importantes ou mudanças.
-
-
 3. 5W2H (Análise do Projeto)
 
 
