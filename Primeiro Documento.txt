@@ -1,0 +1,128 @@
+1. Mind Map (Mapa Mental)
+
+
+- Visão geral da competição
+
+- Informações de datas e locais
+
+- Chamada para ação (Inscrição, mais informações)
+
+- Sobre 
+
+- História da competição
+
+- Missão e objetivos
+
+- Equipe organizadora
+
+- Inscrição
+
+- Formulários de inscrição
+
+- Requisitos para participação
+
+- Prazos e regulamentos
+
+- Competições
+
+- Galeria de fotos/vídeos
+
+- Recursos
+
+- Documentos e regulamentos
+
+- Links úteis para participantes (como tutoriais, vídeos)
+
+- Blog ou notícias relacionadas
+
+- Contato
+
+- Formulário de contato
+
+- Informações sobre como chegar
+
+- Redes sociais
+
+
+2. Brainstorm (Ideias e Funcionalidades)
+
+
+- Sistema de Inscrição Online: Facilitar o processo de inscrição diretamente pelo site, com formulários simples.
+
+- Contagem Regressiva para o Evento: Uma contagem regressiva para gerar mais expectativa.
+
+- Galeria de Imagens e Vídeos: Mostrar edições passadas com fotos e vídeos.
+
+- Blog ou Notícias: Publicar atualizações sobre a competição, novas regras ou artigos educativos sobre CanSat.
+
+- Área de Membros: Para equipes participantes acessarem informações privadas.
+
+- Sistema de Notificação: Alertas para os participantes sobre datas importantes ou mudanças.
+
+
+3. 5W2H (Análise do Projeto)
+
+
+What (O quê?): Criar um site para a competição de CanSat com informações sobre a competição, inscrição, resultados e recursos úteis para os participantes.
+
+- Why (Por quê?): Facilitar a inscrição dos participantes, proporcionar um local centralizado para informações e promover a competição de forma interativa.
+
+- Where (Onde?): O site estará hospedado online, acessível globalmente.
+
+- When (Quando?): O site deve ser lançado antes do início do período de inscrições e permanecer ativo durante o evento.
+
+- Who (Quem?): Organizado por uma equipe que pode incluir designers, desenvolvedores, organizadores da competição e moderadores.
+
+- How (Como?): Desenvolver o site usando plataformas simples de construção, como WordPress ou outras ferramentas de desenvolvimento web.
+
+- How Much (Quanto?): O custo deve ser baixo, no começo, usando plataformas gratuitas ou de baixo custo para hospedagem e design.
+
+
+4. Análise Hierárquica de Tarefas
+
+
+- Planejamento
+
+- Definir estrutura do site
+
+- Escolher plataforma de desenvolvimento
+
+- Determinar orçamento e cronograma
+
+- Design
+
+- Criar layout básico
+
+- Escolher cores, fontes e elementos gráficos
+
+- Desenvolver protótipos e mockups
+
+- Desenvolvimento
+
+- Programar a estrutura do site
+
+- Implementar funcionalidades como formulários e galerias
+
+- Garantir responsividade para dispositivos móveis
+
+- Conteúdo
+
+- Redigir textos sobre a competição
+
+- Carregar documentos e informações
+
+- Testes
+
+- Verificar se o site funciona corretamente em diferentes dispositivos
+
+- Testar formulários e links
+
+- Revisar o conteúdo e corrigir erros
+
+- Lançamento
+
+- Publicar o site
+
+- Promover o site nas redes sociais
+
+- Monitorar e responder dúvidas dos usuários
