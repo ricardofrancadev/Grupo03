@@ -1,0 +1,23 @@
+@startuml site_cansat
+[*] --> AcessarOSite
+AcessarOSite --> UsuárioAbreOSiteNoNavegador : Acesso ao site
+UsuárioAbreOSiteNoNavegador --> SiteCarregaAPáginaInicial : Abrindo o site no navegador
+SiteCarregaAPáginaInicial --> ExplorarAHome : Primeiro contato com a página (Home)
+ExplorarAHome --> VisualizarOAnúncioDoEvento : Explorando a Home
+VisualizarOAnúncioDoEvento --> LerInformaçõesSobreOEvento : Contato com o banner do evento
+LerInformaçõesSobreOEvento --> VerProgramaçãoDoEvento : Informações como Localização, Data e Horário
+VerProgramaçãoDoEvento --> ConsultarListaDeParceiros : Programação do evento (Palestras, Competições, Encerramento, Etc)
+ConsultarListaDeParceiros --> NavegarPeloMenu : Lista de Parceiros (Ibmec, Escolas, Etc)
+NavegarPeloMenu --> VisualizarALogo : Contato com o Menu
+VisualizarALogo --> AcessarANavegaçãoPrincipal : Logo do evento
+AcessarANavegaçãoPrincipal --> ExplorarASeçãoSobre : Navegar pelo menu (Home, Sobre, Times, Contato)
+ExplorarASeçãoSobre --> ConhecerInformaçõesSobreOCanSat : Primeiro contato com a seção Sobre
+ConhecerInformaçõesSobreOCanSat --> ConhecerInformaçõesSobreOIbmec : Informações sobre CanSat (O que é, Informações e regulamento da competição)
+ConhecerInformaçõesSobreOIbmec --> ExplorarASeçãoTimes : Informações sobre o Ibmec (O que o Ibmec oferece, Localização)
+ExplorarASeçãoTimes --> ConhecerOsTimes : Primeiro contato com a seção Times
+ConhecerOsTimes --> ExplorarASeçãoContato : Conhecer os times (Integrantes, Projetos, Demais informações)
+ExplorarASeçãoContato --> VisualizarInformaçõesDeContato : Primeiro contato com a seção Contato
+VisualizarInformaçõesDeContato --> PreencherFormulárioDeContato : Visualizar informações de contato (E-mail, Telefones, Chat)
+PreencherFormulárioDeContato --> EnviarFormulárioDeContato : Preenchimento do formulário (Nome, E-mail, Celular, Como conheceu o evento)
+EnviarFormulárioDeContato --> [*] : Envio do formulário
+@enduml
