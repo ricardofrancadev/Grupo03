@@ -1,0 +1,71 @@
+https://www.art.yale.edu/
+Problemas de IHC do Site:
+1 - Violação dos princípios de usabilidade de Nielsen
+•	Visibilidade do status: Usuário não tem noção clara do que está carregando ou acessando
+•	Consistência e padrões:  Layouts e estilos mudam aleatoriamente de uma página pra outra
+•	Reconhecimento vs memorização: Usuário tem que lembrar onde clicou, pois a navegação muda
+•	Design estético e minimalista: Estética propositalmente caótica, poluindo a experiência
+•	Flexibilidade e eficiência: Navegação pouco intuitiva e nada eficiente
+
+2 - Navegação confusa
+•	Não existe um menu de navegação fixo que guie o usuário com clareza.
+•	Os links estão espalhados pela página como blocos soltos de texto ou imagens.
+•	Não há separação clara entre conteúdos institucionais, acadêmicos, de alunos, eventos, etc.
+3 - Pouca acessibilidade e responsividade
+•	O site não responde bem em dispositivos móveis.
+•	Cores e contrastes dificultam a leitura para pessoas com deficiência visual.
+•	Não parece seguir diretrizes como as do WCAG (Web Content Accessibility Guidelines).
+
+
+1 - Arquitetura da Informação mais clara
+Problemas:
+•	Navegação desorganizada, sem lógica clara entre conteúdos.
+•	Dificuldade em encontrar informações institucionais, acadêmicas ou de contato.
+Soluções:
+•	Criar uma estrutura hierárquica clara:
+o	Ex: Sobre | Cursos | Professores | Estudantes | Trabalhos | Eventos | Contato.
+•	Adicionar uma barra de navegação fixa no topo, visível em todo o site.
+•	Criar breadcrumbs para que o usuário saiba onde está.
+2 - Reduzir a poluição visual
+Problemas:
+•	Fontes misturadas, tamanhos e cores inconsistentes.
+•	Layout caótico que dificulta a leitura e a navegação.
+Soluções:
+•	Adotar uma paleta de cores limitada, com base em tons neutros e 1 cor de destaque.
+•	Usar no máximo duas fontes com pesos diferentes (ex: uma para títulos, outra para textos).
+•	Aplicar alinhamento e espaçamento consistentes (margens, padding, grids).
+3 - Melhorar a navegação
+Problemas:
+•	Menus pouco visíveis e desorganizados.
+•	Links espalhados como texto aleatório.
+Soluções:
+•	Criar um menu principal bem definido, com submenus que expandem suavemente.
+•	Implementar menus de contexto para páginas de curso, trabalhos, eventos, etc.
+•	Inserir uma barra de busca funcional para localizar conteúdo rapidamente.
+4 – Responsividade
+Problemas:
+•	O site funciona mal ou fica quebrado em dispositivos móveis.
+Soluções:
+•	Reestruturar o site com design responsivo, usando media queries.
+•	Adaptar elementos grandes (como grids de imagens ou menus) para empilhamento vertical em telas pequenas.
+•	Otimizar tempo de carregamento para conexões móveis.
+•	
+5 – Acessibilidade
+Problemas:
+•	Contraste ruim, fontes pequenas, layout confuso.
+•	Falta de descrições em imagens.
+Soluções:
+•	Aplicar as diretrizes WCAG 2.1:
+o	Alto contraste.
+o	Textos com tamanho mínimo de 16px.
+o	alt text nas imagens.
+o	Suporte à navegação por teclado.
+o	Cabeçalhos bem estruturados (H1, H2, etc.). 
+6 - Consistência entre páginas
+Problemas:
+•	Cada página parece ter sido feita por uma pessoa diferente.
+•	Estilos visuais e estruturas variam muito.
+Soluções:
+•	Criar um guia de estilo para o site:
+o	Fontes, cores, botões, tamanhos de imagem, etc.
+•	Usar templates padronizados para páginas de projetos, cursos, professores, etc.
