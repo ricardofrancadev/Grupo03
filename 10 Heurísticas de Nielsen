@@ -1,0 +1,72 @@
+Site Analisado: UCI CanSat / AntSat
+Este site pertence à Universidade da Califórnia, Irvine (UCI), e apresenta o projeto da equipe para a competição CanSat. Embora contenha informações valiosas sobre o projeto, há várias áreas que poderiam ser aprimoradas para melhorar a experiência do usuário.
+
+Aplicação das 10 Heurísticas de Nielsen
+Visibilidade do estado do sistema
+
+Problema: O site não fornece feedback claro sobre ações do usuário, como cliques em links ou envios de formulários.​
+
+Melhoria: Implementar indicadores visuais ou mensagens de confirmação para ações realizadas.​
+
+Correspondência entre o sistema e o mundo real
+
+Problema: Utiliza jargões técnicos sem explicações, o que pode confundir visitantes não familiarizados com o projeto.​
+
+Melhoria: Incluir glossário ou descrições simples para termos técnicos.​
+
+Controle e liberdade do usuário
+
+Problema: Não há opções para desfazer ações ou retornar facilmente a páginas anteriores.​
+
+Melhoria: Adicionar botões de "voltar" e opções de desfazer onde aplicável.​
+
+Consistência e padrões
+
+Problema: Inconsistência na formatação de títulos, textos e imagens.​
+
+Melhoria: Adotar um padrão visual consistente em todo o site.​
+
+Prevenção de erros
+
+Problema: Falta de validação em formulários pode levar a erros de envio.​
+
+Melhoria: Implementar validação de campos e mensagens de erro claras.​
+
+Reconhecimento em vez de recordação
+
+Problema: Informações importantes estão ocultas em menus ou textos extensos.​
+
+Melhoria: Destacar informações-chave e tornar menus mais intuitivos.​
+
+Flexibilidade e eficiência de uso
+
+Problema: Falta de atalhos ou recursos para usuários experientes.​
+
+Melhoria: Adicionar funcionalidades como busca rápida e navegação por teclado.​
+
+Design estético e minimalista
+
+Problema: Layout desorganizado com excesso de texto e imagens desalinhadas.​
+
+Melhoria: Reorganizar o conteúdo com foco na clareza e simplicidade visual.​
+
+Ajudar os usuários a reconhecer, diagnosticar e recuperar-se de erros
+
+Problema: Mensagens de erro genéricas ou inexistentes.​
+
+Melhoria: Fornecer mensagens de erro específicas com instruções para correção.​
+esero.pt
+
+Ajuda e documentação
+
+Problema: Ausência de seção de ajuda ou FAQ para orientar os usuários.
+
+Melhoria: Criar uma seção de suporte com respostas às dúvidas frequentes e contatos úteis.
+
+🛠️ Recomendações Gerais
+Responsividade: Adaptar o site para dispositivos móveis, garantindo uma experiência consistente em diferentes tamanhos de tela.​
+
+Acessibilidade: Implementar práticas de acessibilidade, como texto alternativo para imagens e navegação por teclado.​
+
+Atualização de Conteúdo: Manter as informações atualizadas, removendo dados obsoletos e adicionando novidades do projeto.​
+
