@@ -1,0 +1,64 @@
+🔍 Site Analisado: CanSat Portugal (esero.pt) https://www.esero.pt/projetos-escolares/2023-2024/cansatpt
+
+Este é o site oficial da competição CanSat em Portugal. Ele traz várias informações importantes sobre como funciona o evento, quem pode participar e como se inscrever. 
+Mas tem alguns pontos que ainda podem melhorar para deixar a navegação mais fácil e clara.
+
+✅ Aplicação das 10 Heurísticas de Nielsen
+
+1. Visibilidade do que está acontecendo
+Problema: Quando o usuário faz alguma ação, como clicar ou enviar algo, o site não mostra se deu certo ou não.
+
+Melhoria: Mostrar mensagens ou animações confirmando que a ação foi realizada.
+
+2. Falar a língua do usuário
+Problema: Alguns termos técnicos aparecem sem explicação, o que pode confundir quem não conhece.
+
+Melhoria: Adicionar explicações simples ou links que ajudem a entender o que significam.
+
+3. Controle para o usuário
+Problema: Não tem como voltar ou desfazer facilmente ações durante a navegação.
+
+Melhoria: Incluir botões de "voltar" ou opções para revisar antes de confirmar algo.
+
+4. Consistência
+Problema: Alguns botões, menus e textos mudam de estilo em páginas diferentes.
+
+Melhoria: Usar sempre o mesmo visual e organização nas páginas.
+
+5. Evitar erros
+Problema: Formulários podem ser enviados com informações faltando ou erradas.
+
+Melhoria: Mostrar avisos antes de enviar, pedindo para corrigir o que estiver faltando.
+
+6. Facilitar o reconhecimento
+Problema: Algumas informações estão escondidas ou difíceis de encontrar.
+
+Melhoria: Deixar os menus mais claros e destacar o que é mais importante.
+
+7. Facilidade para iniciantes e eficiência para quem já conhece
+Problema: Faltam atalhos ou ferramentas que ajudem quem já conhece o site a usar mais rápido.
+
+Melhoria: Adicionar busca ou botões rápidos para as seções mais usadas.
+
+8. Design limpo
+Problema: Algumas páginas têm muito texto junto e imagens desalinhadas.
+
+Melhoria: Quebrar os textos em blocos menores e organizar melhor o visual da página.
+
+9. Mensagens de erro
+Problema: Quando algo dá errado, o site não explica direito o que fazer.
+
+Melhoria: Mostrar mensagens claras explicando o erro e como resolver.
+
+10. Ajuda e informações
+Problema: Não tem uma área específica com perguntas frequentes ou ajuda.
+
+Melhoria: Criar uma seção de FAQ e colocar um contato fácil para tirar dúvidas.
+
+🛠️ Sugestões Extras
+Funcionar bem no celular: Algumas partes ainda ficam difíceis de usar em telas pequenas. Melhor adaptar para celular e tablet.
+
+Acessibilidade: Incluir recursos que ajudem pessoas com deficiência, como texto alternativo em imagens e boa leitura com leitores de tela.
+
+Manter o conteúdo em dia: Atualizar sempre as informações, principalmente sobre datas e fases da competição.
+
