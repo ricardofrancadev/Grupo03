@@ -1,0 +1,120 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: 'Inter', Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+p {
+    font-family: 'Inter', Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+}
+
+.cabecalho {
+    height: 10%;
+    display: flex;
+    justify-content: space-between;
+    background-color: #979696;
+    align-items: center;
+    padding: 0 10rem;
+}
+
+.cabecalho__nav__lista {
+    display: flex;
+    gap: 6rem;
+}
+
+.cabecalho__nav__lista__item__li {
+    list-style: none;
+    background-color: #FEB712;
+    border-radius: 23px;
+    width: 6rem;
+    height: 1.8rem;
+    text-align: center;
+    padding-top: 0.5rem;
+    border: none;
+}
+
+.cabecalho__nav__lista__item__a {
+    text-decoration: none;
+    color: #002C5E;
+    font-weight: bold;
+    font-family: 'Inter', Arial, Helvetica, sans-serif;
+}
+
+main {
+    height: 80%;
+}
+
+.main__intro {
+    position: relative;
+    background-image: url('/Imagens/fundo_espacial.png');
+    background-size: cover;
+    background-position: center;
+    height: 40vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main__conteudo__cansat {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20rem;
+    padding: 2rem;
+    margin-left: 7rem;
+}
+
+.main__conteudo__cansat__texto {
+    max-width: 50%;
+}
+
+.main__conteudo__cansat__imagem__img {
+    max-width: 50%;
+}
+
+.rodape {
+    height: 10%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Inter', Arial, Helvetica, sans-serif;
+    margin-left: 7.2%;
+}
+
+.rodape__esquerda {
+    display: flex;
+    gap: 8rem;
+}
+
+.rodape__nome {
+    display: flex;
+    font-weight: bold;
+}
+
+.rodape__info {
+    display: flex;
+    gap: 5rem;
+}
+
+.rodape__redes {
+    display: flex;
+    gap: 1rem;
+}
+
+.rodape__lista__item {
+    list-style: none;
+    color: #002C5E;
+}
+
+.rodape__lista__rede {
+    text-decoration: none;
+    color: #002C5E;
+    font-size: 1.5rem;
+}
