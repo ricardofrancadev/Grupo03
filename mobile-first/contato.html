@@ -1,17 +1,48 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Página de Contato</title>
-  <link rel="stylesheet" href="contato.css">
+  <link rel="stylesheet" href="contato.css" />
+  <script defer src="contato.js"></script>
 </head>
-<body>
-    <main>
-        <section class="form-container" role="form" aria-labelledby="form-title">
-        <h2 id="form-title">Contato</h2>
-        <form id="form-contato" action="/enviar-contato" method="post" autocomplete="on" novalidate>
-        
+<body class="pagina-home">
+  <header id="header">
+    <button class="menu-hamburguer" onclick="mostrarNav()">
+      <span class="bar"></span>
+      <span class="bar"></span>
+      <span class="bar"></span>
+    </button>
+    <div class="header">
+      <div class="headerlogo">
+        <img src="Imagens/cansat_logo 1.png" alt="Logo CamSat">
+      </div>
+      <nav class="nav" id="nav">
+        <a href="index.html" class="link-home">Home</a>
+        <a href="sobre.html" class="link-sobre">Sobre</a>
+        <a href="times.html" class="link-times">Times</a>
+        <a href="#contato" class="link-contato">Contato</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="section1">
+      <div class="homelogo">
+        <img src="Imagens/cansat_logo 1.png" alt="Logo Fundo de tela">
+      </div>
+    </section>
+
+    <section class="section2">
+      <div class="conteudohome">
+        <img class="imgconteudo" src="Imagens/placeholder.png" alt="Place Holder">
+      </div>
+    </section>
+
+    <section class="form-container" role="form" aria-labelledby="form-title" id="contato">
+      <h2 id="form-title">Contato</h2>
+      <form id="form-contato" action="/enviar-contato" method="post" autocomplete="on" novalidate>
         <label for="nome">Nome:</label>
         <input type="text" id="nome" name="nome" required maxlength="100" autocomplete="name" aria-required="true" />
         <div class="mensagem-erro" id="erro-nome"></div>
@@ -25,10 +56,30 @@
         <div class="mensagem-erro" id="erro-mensagem"></div>
 
         <button type="submit" aria-label="Enviar formulário de contato">Enviar</button>
-        </form>
-        </section>
+      </form>
+    </section>
+  </main>
 
-    <script src="contato.js"></script>
-    </main>
+  <footer>
+    <div class="footer">
+      <div class="imglogo">
+        <img class="ibmeclogo" src="Imagens/ibmeclogo.png" alt="ibmeclogo">
+        <img src="Imagens/nasalogo.png" alt="nasalogo">
+        <img src="Imagens/rocketlogo.png" alt="rocketlogo">
+      </div>
+      <div class="imgredesociais">
+        <img src="Imagens/youtubelogo.png" alt="youtubelogo">
+        <img src="Imagens/linkedinlogo.png" alt="linkedinlogo">
+        <img src="Imagens/instalogo.png" alt="instalogo">
+        <img src="Imagens/facebooklogo.png" alt="facebooklogo">
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    function mostrarNav() {
+      document.getElementById('nav').classList.toggle('active');
+    }
+  </script>
 </body>
 </html>
